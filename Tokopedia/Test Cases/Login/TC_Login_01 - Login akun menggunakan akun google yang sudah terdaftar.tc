@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_01 - Login akun menggunakan akun google yang sudah terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44930c58-8755-4aa5-8f36-c54960cea04b</testCaseGuid>
+</TestCaseEntity>

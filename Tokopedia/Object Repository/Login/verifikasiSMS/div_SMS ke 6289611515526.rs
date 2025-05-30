@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SMS ke 6289611515526</name>
+   <tag></tag>
+   <elementGuidId>2ea81b96-babf-4638-89fd-6da866cf2e12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='WhatsApp ke'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f1dc5c4f-878d-494d-acf0-806bc911ee18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unf-card css-np5mh8-unf-card eh33ozn0</value>
+      <webElementGuid>1f2249c9-e7cd-4aa6-b0ac-f4dfc5a0dc28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Card</value>
+      <webElementGuid>e3b1844c-aded-4184-a26a-4252c875f9e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>sms</value>
+      <webElementGuid>84be97f8-13ef-4a6c-a5e5-5556ba347cf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SMS ke 6289611515526</value>
+      <webElementGuid>35f97153-8bb2-44f8-971d-e405d5b04611</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;css-1g5w2rw&quot;]/div[7]/div[@class=&quot;css-y344pu e1nc1fa20&quot;]/article[@class=&quot;css-l7o40o-unf-modal e1nc1fa21&quot;]/div[@class=&quot;css-18qem4c e1nc1fa22&quot;]/div[@class=&quot;css-2ws32b&quot;]/div[@class=&quot;css-vpkyow&quot;]/div[@class=&quot;css-uwawnj&quot;]/div[@class=&quot;unf-card css-np5mh8-unf-card eh33ozn0&quot;]</value>
+      <webElementGuid>67d95133-5e79-4496-b44c-e8240f8f4bbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WhatsApp ke'])[1]/following::div[1]</value>
+      <webElementGuid>efd35eb4-2e20-41d5-86da-fd39d583a4bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor saya sudah tidak aktif'])[1]/preceding::div[2]</value>
+      <webElementGuid>4ca67766-6c59-4cb7-80d4-50aebfa9aaea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>d6f7fcb8-3994-4fc2-8866-05fd8e8a8bc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SMS ke 6289611515526' or . = 'SMS ke 6289611515526')]</value>
+      <webElementGuid>95000ca3-f26d-433d-bad7-72803d34b719</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
