@@ -8,10 +8,10 @@ Proyek ini berisi *end-to-end (E2E) automated tests* untuk aplikasi web Tokopedi
 - **Website Target**: Tokopedia.com
 
 ## Test Cases
-- Register & Login
-- Pencarian Produk
-- Detail Produk
-
+- Register
+- Login
+- Search Produk
+  
 ## Test Case & Report
 https://drive.google.com/drive/folders/1tmVd-3cspvE0EdPyWji893eZAC9d6vx-?usp=sharing
 ## Setup
@@ -36,4 +36,4 @@ Proyek portfolio untuk demonstrasi E2E testing automation menggunakan Katalon St
 
 ## Kontak
 - **GitHub:** [Albarokah9](https://github.com/Albarokah9)
-- **[Tambahkan Link LinkedIn Anda di sini, jika ada]**
+- **(https://www.linkedin.com/in/albarokah-rifansah-sutanto-putra-a689a8363/)**
