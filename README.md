@@ -36,4 +36,4 @@ Proyek portfolio untuk demonstrasi E2E testing automation menggunakan Katalon St
 
 ## Kontak
 - **GitHub:** [Albarokah9](https://github.com/Albarokah9)
-- **https://www.linkedin.com/in/albarokah-rifansah-sutanto-putra-a689a8363/**
+- **LinkedIn: https://www.linkedin.com/in/albarokah-rifansah-sutanto-putra-a689a8363/**
