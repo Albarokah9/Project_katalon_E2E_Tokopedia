@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Register_04 - Register akun menggunakan no handphone</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7808fad0-cc48-4d48-959c-56912c151c8c</testCaseGuid>
+</TestCaseEntity>

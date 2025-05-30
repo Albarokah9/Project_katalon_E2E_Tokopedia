@@ -6,11 +6,12 @@
    <UUID>3ed8aed6-b063-4d2b-942b-42a228c851f0</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.7.5</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.7.5</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Project Bootcamp\Project_katalon_E2E_Tokopedia\Tokopedia\Tokopedia.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
