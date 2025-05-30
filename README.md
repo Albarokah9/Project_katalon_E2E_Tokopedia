@@ -6,6 +6,7 @@ Proyek ini berisi *end-to-end (E2E) automated tests* untuk aplikasi web Tokopedi
 - **Framework**: Katalon Studio
 - **Bahasa**: Java/Groovy
 - **Website Target**: Tokopedia.com
+- **Manajemen Test Case**: ClickUp
 
 ## Test Cases
 - Register
