@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_SP_02 - Mencari produk Tenda Glamping naturehike village 13 melalui search page</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>caf610a1-a789-4ccf-9250-f7111469b124</testCaseGuid>
-</TestCaseEntity>

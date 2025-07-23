@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_Register_03 - Register akun menggunakan email yang sudah terdaftar</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>0f81706b-a360-40de-8eb6-2ee173739431</testCaseGuid>
-</TestCaseEntity>

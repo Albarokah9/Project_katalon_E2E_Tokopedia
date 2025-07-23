@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_Login_03 - Login akun menggunakan no handphone yang belum terdaftar</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>5513209a-e6db-4980-9ebb-4132283d01e2</testCaseGuid>
-</TestCaseEntity>
