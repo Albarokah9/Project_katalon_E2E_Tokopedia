@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SP_01 - Mencari produk menggunkan navigasi kategori</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11e203e0-5087-4bee-8d23-d086bda9c738</testCaseGuid>
+</TestCaseEntity>

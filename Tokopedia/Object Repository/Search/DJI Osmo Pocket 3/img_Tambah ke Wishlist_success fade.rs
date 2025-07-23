@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Tambah ke Wishlist_success fade</name>
+   <tag></tag>
+   <elementGuidId>3453e574-24e1-45a0-adb3-08e9c8d909a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div/div[2]/div[3]/div/div[3]/div[6]/a/div[2]/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a8a77c32-52b8-4fc3-a44b-55df161e5f8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>crossorigin</name>
+      <type>Main</type>
+      <value>anonymous</value>
+      <webElementGuid>4f94c55d-f7c0-46dd-b575-d6ec0cad42a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>success fade</value>
+      <webElementGuid>b24e3723-0272-4d45-8366-8f81375d2589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/12/20/ed2c8ecb-ef2a-4624-8529-c1f46d87bb58.jpg</value>
+      <webElementGuid>a8d0c87a-e99a-46d6-ae89-521272bd5b92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>DJI Osmo Pocket 3 - Pocket Gimbal Camera</value>
+      <webElementGuid>57b4fc45-cc37-47a6-a54b-969b858cd588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[2]/div[@class=&quot;css-gvsi1m e1nlzfl0&quot;]/div[@class=&quot;css-1xpribl e1nlzfl3&quot;]/div[@class=&quot;css-1mvy9n0 e1nlzfl4&quot;]/div[@class=&quot;css-18p2ktc&quot;]/div[@class=&quot;css-13wayc1&quot;]/div[@class=&quot;css-1dq1dix&quot;]/div[@class=&quot;css-13l3l78 e1nlzfl9&quot;]/div[@class=&quot;css-bk6tzz e1nlzfl2&quot;]/a[@class=&quot;css-54k5sq&quot;]/div[@class=&quot;css-16vw0vn&quot;]/div[@class=&quot;css-79elbk&quot;]/div[@class=&quot;css-377m5r&quot;]/div[@class=&quot;css-b4oy9w&quot;]/img[@class=&quot;success fade&quot;]</value>
+      <webElementGuid>68bd2e30-0913-4898-8ab2-db107751121c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div/div[2]/div[3]/div/div[3]/div[6]/a/div[2]/div/div/div/img</value>
+      <webElementGuid>f76da9a7-74c2-486d-adb3-caab7cd5061b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='DJI Osmo Pocket 3 - Pocket Gimbal Camera']</value>
+      <webElementGuid>8695b6f2-84ac-42fb-8362-5e684ea4d879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a/div[2]/div/div/div/img</value>
+      <webElementGuid>ab29c41b-276b-436e-9780-581a9b1a3e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/12/20/ed2c8ecb-ef2a-4624-8529-c1f46d87bb58.jpg' and @alt = 'DJI Osmo Pocket 3 - Pocket Gimbal Camera']</value>
+      <webElementGuid>c3177845-e5a5-4f34-8a24-8bc5d56c140b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

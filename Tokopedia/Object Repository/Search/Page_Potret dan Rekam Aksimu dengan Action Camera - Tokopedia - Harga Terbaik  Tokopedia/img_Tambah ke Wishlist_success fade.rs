@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Tambah ke Wishlist_success fade</name>
+   <tag></tag>
+   <elementGuidId>880f70d0-bcc0-4142-91d0-6d66acb9a6d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div/div[2]/div[3]/div/div[3]/div[5]/a/div[2]/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>90ab7af7-8a33-4b2b-8fea-17f93b71cf77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>crossorigin</name>
+      <type>Main</type>
+      <value>anonymous</value>
+      <webElementGuid>b99e11a3-c1c3-44aa-bf8f-23430226024e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>success fade</value>
+      <webElementGuid>7d0ee119-122c-420b-8c75-7f99f85f810a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images.tokopedia.net/img/cache/200-square/hDjmkQ/2025/1/17/721d993b-ec10-422b-96a8-51e36c808a69.jpg</value>
+      <webElementGuid>4f52321c-98bf-4e36-b5a7-85200d4979ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>DJI Pocket 3 Creator Combo Garansi TAM Official 1 Tahun Resmi Osmo Pocket 3 - Creator Combo</value>
+      <webElementGuid>d670be58-1fae-4a90-a3a0-6fd972f9205a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[2]/div[@class=&quot;css-gvsi1m e1nlzfl0&quot;]/div[@class=&quot;css-1xpribl e1nlzfl3&quot;]/div[@class=&quot;css-1mvy9n0 e1nlzfl4&quot;]/div[@class=&quot;css-18p2ktc&quot;]/div[@class=&quot;css-13wayc1&quot;]/div[@class=&quot;css-1dq1dix&quot;]/div[@class=&quot;css-13l3l78 e1nlzfl9&quot;]/div[@class=&quot;css-bk6tzz e1nlzfl2&quot;]/a[@class=&quot;css-54k5sq&quot;]/div[@class=&quot;css-16vw0vn&quot;]/div[@class=&quot;css-79elbk&quot;]/div[@class=&quot;css-377m5r&quot;]/div[@class=&quot;css-b4oy9w&quot;]/img[@class=&quot;success fade&quot;]</value>
+      <webElementGuid>af69b9ae-0f1c-4371-b99e-2ca4e37f7bba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div/div[2]/div[3]/div/div[3]/div[5]/a/div[2]/div/div/div/img</value>
+      <webElementGuid>a3df1d85-ad9a-4c6e-b03e-3c6267d32e06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='DJI Pocket 3 Creator Combo Garansi TAM Official 1 Tahun Resmi Osmo Pocket 3 - Creator Combo']</value>
+      <webElementGuid>7e35d27e-1622-46e7-b4a4-7a1d60e7e280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a/div[2]/div/div/div/img</value>
+      <webElementGuid>73875c96-bb03-4214-9f1f-9fca0527c9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://images.tokopedia.net/img/cache/200-square/hDjmkQ/2025/1/17/721d993b-ec10-422b-96a8-51e36c808a69.jpg' and @alt = 'DJI Pocket 3 Creator Combo Garansi TAM Official 1 Tahun Resmi Osmo Pocket 3 - Creator Combo']</value>
+      <webElementGuid>a9d53bea-903d-4c44-bd69-435ad768ef01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Email sudah terdaftar, silahkan masuk menggunakan Google</name>
+   <tag></tag>
+   <elementGuidId>43a66a82-3383-4ca3-ac9f-23221ba47093</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Email sudah terdaftar, silahkan masuk menggunakan Google' or . = 'Email sudah terdaftar, silahkan masuk menggunakan Google')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__skipper']/div/div/div/div[2]/div[4]/form/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5d17f6d7-dd8c-4e5e-b0d5-09243972f340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email sudah terdaftar, silahkan masuk menggunakan Google</value>
+      <webElementGuid>2fcc2c20-dcbf-481a-9d7d-218828ee564d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__skipper&quot;)/div[@class=&quot;css-b1khel&quot;]/div[@class=&quot;css-kqvkc7&quot;]/div[@class=&quot;css-1akx9dq&quot;]/div[@class=&quot;css-rrvbed&quot;]/div[4]/form[1]/div[@class=&quot;css-1xchg94&quot;]/div[@class=&quot;css-y0w6gg&quot;]/p[1]</value>
+      <webElementGuid>a9fb8526-7c76-4a58-863a-93df8e76acbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__skipper']/div/div/div/div[2]/div[4]/form/div/div[2]/p</value>
+      <webElementGuid>7950ffbd-7bb9-4899-b6aa-a17f652d8647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor HP atau E-mail'])[2]/following::p[1]</value>
+      <webElementGuid>40acd52e-5881-4764-8915-99166f0ad690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor HP atau E-mail'])[1]/following::p[1]</value>
+      <webElementGuid>eb8b5f6b-da41-4c02-8443-abd7e4c16f3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::p[1]</value>
+      <webElementGuid>517d4fd3-fa9e-48e7-bb9f-da5afa2f9cae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dengan mendaftar, saya menyetujui'])[1]/preceding::p[1]</value>
+      <webElementGuid>bfee65b7-2993-4869-ab62-e67348386d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email sudah terdaftar, silahkan masuk menggunakan Google']/parent::*</value>
+      <webElementGuid>e0c17a64-f033-41ce-9e81-97ef7f46ed09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>848a8099-5a52-486b-8431-55965e888633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Email sudah terdaftar, silahkan masuk menggunakan Google' or . = 'Email sudah terdaftar, silahkan masuk menggunakan Google')]</value>
+      <webElementGuid>d16f9112-2008-42c8-9e7b-759cb66fd710</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,53 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Register,Chrome 136.0.0.0,,,30-05-2025 13:37:54,30-05-2025 13:39:16,1m - 22.405s,PASSED
+,,,,,,,
+Test Cases/Register/TC_Register_01 - Register akun menggunakan akun google yang belum terdaftar,Chrome 136.0.0.0,,,30-05-2025 13:37:55,30-05-2025 13:38:16,21.252s,PASSED
+"openBrowser("""")",Chrome 136.0.0.0,,,30-05-2025 13:37:55,30-05-2025 13:38:01,5.712s,PASSED
+maximizeWindow(),Chrome 136.0.0.0,,,30-05-2025 13:38:01,30-05-2025 13:38:01,0.322s,PASSED
+"navigateToUrl(""https://www.tokopedia.com/"")",Chrome 136.0.0.0,,,30-05-2025 13:38:01,30-05-2025 13:38:02,0.453s,PASSED
+"click(findTestObject(""Register/WelcomePage/svg""))",Chrome 136.0.0.0,,,30-05-2025 13:38:02,30-05-2025 13:38:09,7.457s,PASSED
+"click(findTestObject(""Register/Daftar/button_Daftar""))",Chrome 136.0.0.0,,,30-05-2025 13:38:09,30-05-2025 13:38:12,3.011s,PASSED
+"setText(findTestObject(""Register/Daftar/FiledNoHp_Email/input_Nomor HP atau E-mail_register""), ""vexohi2292@nomrista.com"")",Chrome 136.0.0.0,,,30-05-2025 13:38:12,30-05-2025 13:38:14,1.247s,PASSED
+"click(findTestObject(""Register/DaftarAfterSetText/Daftar_2""))",Chrome 136.0.0.0,,,30-05-2025 13:38:14,30-05-2025 13:38:15,1.033s,PASSED
+"click(findTestObject(""Register/afterDaftar/span_Ya, Benar""))",Chrome 136.0.0.0,,,30-05-2025 13:38:15,30-05-2025 13:38:16,1.128s,PASSED
+,,,,,,,
+Test Cases/Register/TC_Register_02 - Register akun menggunakan format google yang salah,Chrome 136.0.0.0,,,30-05-2025 13:38:16,30-05-2025 13:38:33,17.160s,PASSED
+"openBrowser("""")",Chrome 136.0.0.0,,,30-05-2025 13:38:16,30-05-2025 13:38:18,2.330s,PASSED
+maximizeWindow(),Chrome 136.0.0.0,,,30-05-2025 13:38:18,30-05-2025 13:38:18,0.188s,PASSED
+"navigateToUrl(""https://www.tokopedia.com/"")",Chrome 136.0.0.0,,,30-05-2025 13:38:18,30-05-2025 13:38:25,6.598s,PASSED
+"click(findTestObject(""Register/WelcomePage/svg""))",Chrome 136.0.0.0,,,30-05-2025 13:38:25,30-05-2025 13:38:27,2.057s,PASSED
+"click(findTestObject(""Register/Daftar/button_Daftar""))",Chrome 136.0.0.0,,,30-05-2025 13:38:27,30-05-2025 13:38:31,4.123s,PASSED
+"setText(findTestObject(""Register/Daftar/FiledNoHp_Email/input_Nomor HP atau E-mail_register""), ""kosiwo1106#leabro.com"")",Chrome 136.0.0.0,,,30-05-2025 13:38:31,30-05-2025 13:38:32,1.150s,PASSED
+"verifyTextPresent(""Format email salah"", true)",Chrome 136.0.0.0,,,30-05-2025 13:38:32,30-05-2025 13:38:33,0.533s,PASSED
+,,,,,,,
+Test Cases/Register/TC_Register_03 - Register akun menggunakan email yang sudah terdaftar,Chrome 136.0.0.0,,,30-05-2025 13:38:33,30-05-2025 13:38:46,13.411s,PASSED
+"openBrowser("""")",Chrome 136.0.0.0,,,30-05-2025 13:38:33,30-05-2025 13:38:35,1.915s,PASSED
+maximizeWindow(),Chrome 136.0.0.0,,,30-05-2025 13:38:35,30-05-2025 13:38:35,0.193s,PASSED
+"navigateToUrl(""https://www.tokopedia.com/"")",Chrome 136.0.0.0,,,30-05-2025 13:38:35,30-05-2025 13:38:39,3.999s,PASSED
+"click(findTestObject(""Register/WelcomePage/svg""))",Chrome 136.0.0.0,,,30-05-2025 13:38:39,30-05-2025 13:38:41,1.371s,PASSED
+"click(findTestObject(""Register/Daftar/button_Daftar""))",Chrome 136.0.0.0,,,30-05-2025 13:38:41,30-05-2025 13:38:43,2.196s,PASSED
+"setText(findTestObject(""Register/Daftar/FiledNoHp_Email/input_Nomor HP atau E-mail_register""), ""kosiwo1106@leabro.com"")",Chrome 136.0.0.0,,,30-05-2025 13:38:43,30-05-2025 13:38:44,1.719s,PASSED
+"click(findTestObject(""Register/DaftarAfterSetText/Daftar_2""))",Chrome 136.0.0.0,,,30-05-2025 13:38:44,30-05-2025 13:38:45,0.530s,PASSED
+"verifyElementPresent(findTestObject(""Register/emailSudahTerDaftar/p_Email sudah terdaftar, silahkan masuk menggunakan Google""), 5)",Chrome 136.0.0.0,,,30-05-2025 13:38:45,30-05-2025 13:38:46,1.036s,PASSED
+"verifyTextPresent(""Email sudah terdaftar"", false)",Chrome 136.0.0.0,,,30-05-2025 13:38:46,30-05-2025 13:38:46,0.297s,PASSED
+,,,,,,,
+Test Cases/Register/TC_Register_04 - Register akun menggunakan no handphone,Chrome 136.0.0.0,,,30-05-2025 13:38:46,30-05-2025 13:39:02,15.911s,PASSED
+"openBrowser("""")",Chrome 136.0.0.0,,,30-05-2025 13:38:46,30-05-2025 13:38:49,2.218s,PASSED
+"navigateToUrl(""https://www.tokopedia.com/"")",Chrome 136.0.0.0,,,30-05-2025 13:38:49,30-05-2025 13:38:53,4.266s,PASSED
+"click(findTestObject(""Register/WelcomePage/svg""))",Chrome 136.0.0.0,,,30-05-2025 13:38:53,30-05-2025 13:38:54,1.516s,PASSED
+"click(findTestObject(""Register/Daftar/button_Daftar""))",Chrome 136.0.0.0,,,30-05-2025 13:38:54,30-05-2025 13:38:57,2.589s,PASSED
+"setText(findTestObject(""Register/Daftar/FiledNoHp_Email/input_Nomor HP atau E-mail_register""), ""08995324319"")",Chrome 136.0.0.0,,,30-05-2025 13:38:57,30-05-2025 13:38:59,1.485s,PASSED
+"click(findTestObject(""Register/DaftarAfterSetText/Daftar_2""))",Chrome 136.0.0.0,,,30-05-2025 13:38:59,30-05-2025 13:38:59,0.684s,PASSED
+"click(findTestObject(""Register/afterDaftar/span_Ya, Benar""))",Chrome 136.0.0.0,,,30-05-2025 13:38:59,30-05-2025 13:39:01,1.786s,PASSED
+"click(findTestObject(""Register/verifikasi/div_WhatsApp ke 628995324319""))",Chrome 136.0.0.0,,,30-05-2025 13:39:01,30-05-2025 13:39:02,1.269s,PASSED
+,,,,,,,
+Test Cases/Register/TC_Register_05 - Register akun menggunalam no handphone yang sudah terdaftar,Chrome 136.0.0.0,,,30-05-2025 13:39:02,30-05-2025 13:39:16,14.076s,PASSED
+"openBrowser("""")",Chrome 136.0.0.0,,,30-05-2025 13:39:02,30-05-2025 13:39:05,2.325s,PASSED
+maximizeWindow(),Chrome 136.0.0.0,,,30-05-2025 13:39:05,30-05-2025 13:39:05,0.145s,PASSED
+"navigateToUrl(""https://www.tokopedia.com/"")",Chrome 136.0.0.0,,,30-05-2025 13:39:05,30-05-2025 13:39:09,4.032s,PASSED
+"click(findTestObject(""Register/WelcomePage/svg""))",Chrome 136.0.0.0,,,30-05-2025 13:39:09,30-05-2025 13:39:10,1.563s,PASSED
+"click(findTestObject(""Register/Daftar/button_Daftar""))",Chrome 136.0.0.0,,,30-05-2025 13:39:10,30-05-2025 13:39:13,2.893s,PASSED
+"setText(findTestObject(""Register/Daftar/FiledNoHp_Email/input_Nomor HP atau E-mail_register""), ""089611515526"")",Chrome 136.0.0.0,,,30-05-2025 13:39:13,30-05-2025 13:39:14,1.089s,PASSED
+"click(findTestObject(""Register/DaftarAfterSetText/Daftar_2""))",Chrome 136.0.0.0,,,30-05-2025 13:39:14,30-05-2025 13:39:15,0.701s,PASSED
+"verifyElementPresent(findTestObject(""Register/NoHpSudahTerdaftar/div_Nomor HP sudah terdaftarMasuk dengan nomor ini 089611515526MasukUbah""), 5)",Chrome 136.0.0.0,,,30-05-2025 13:39:15,30-05-2025 13:39:16,0.910s,PASSED
+"verifyTextPresent(""Nomor HP sudah terdaftar"", false)",Chrome 136.0.0.0,,,30-05-2025 13:39:16,30-05-2025 13:39:16,0.295s,PASSED

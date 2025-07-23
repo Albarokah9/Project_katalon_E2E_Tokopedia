@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Action Camera</name>
+   <tag></tag>
+   <elementGuidId>24b92027-fa2f-4d34-ae46-cbfac0b8a149</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.css-1uk9zdg.open > a > li > span.css-18jw5ly</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div/div[2]/div/div[2]/div[2]/div[3]/div/div/div[5]/ul[2]/a/li/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e4b407c-3c60-4745-9f6e-6adfaee89448</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>llbCL3CategoryLevel3ActionCamera</value>
+      <webElementGuid>5aed4a8e-b76e-4d27-bb6a-f3b77c5ef0f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-18jw5ly</value>
+      <webElementGuid>8f953af0-93b5-401d-b6ab-d59c961ad144</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Action Camera</value>
+      <webElementGuid>372ec121-bd2f-48ee-8fe1-87882c35ab2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[2]/div[@class=&quot;css-gvsi1m e1nlzfl0&quot;]/div[@class=&quot;css-1xpribl e1nlzfl3&quot;]/div[@class=&quot;css-1mvy9n0 e1nlzfl4&quot;]/div[@class=&quot;css-18p2ktc&quot;]/div[@class=&quot;css-ufscxh&quot;]/div[2]/div[@class=&quot;filterBlockContainer css-rk97m8&quot;]/div[@class=&quot;filterOption css-ohkxpv css-vevvmu&quot;]/div[@class=&quot;css-gvoll6&quot;]/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-eicyaz&quot;]/ul[@class=&quot;css-1uk9zdg open&quot;]/a[1]/li[1]/span[@class=&quot;css-18jw5ly&quot;]</value>
+      <webElementGuid>33b18697-b25b-4bec-8cc5-f846bffd0881</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div/div[2]/div/div[2]/div[2]/div[3]/div/div/div[5]/ul[2]/a/li/span</value>
+      <webElementGuid>9379c573-5491-4da3-83cf-7aea660bcca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamera Digital'])[1]/following::span[1]</value>
+      <webElementGuid>264ff5df-7df5-4d4b-a552-884e8a39e5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamera Film'])[1]/following::span[2]</value>
+      <webElementGuid>ca2ce37f-faa2-451a-b9f8-2919dab3017e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamera 360'])[1]/preceding::span[1]</value>
+      <webElementGuid>1bdd8c28-8a0d-4709-83ca-85a8928d0978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamera DSLR'])[1]/preceding::span[2]</value>
+      <webElementGuid>823a9fa0-91d0-43d0-89b9-3ff8c04621d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Action Camera']/parent::*</value>
+      <webElementGuid>1342a8ef-a84d-4588-b5b9-e7673ec520d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/ul[2]/a/li/span</value>
+      <webElementGuid>b6b0b59a-74c9-4a38-9b0b-22d22da4f5d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Action Camera' or . = 'Action Camera')]</value>
+      <webElementGuid>dd7b49dd-9a05-41ec-9c75-b1034c8f0c72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

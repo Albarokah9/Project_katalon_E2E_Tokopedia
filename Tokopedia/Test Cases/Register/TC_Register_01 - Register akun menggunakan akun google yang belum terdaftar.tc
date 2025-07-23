@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Register_01 - Register akun menggunakan akun google yang belum terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9ddc849-fa4f-43a8-b465-26b7a87aa799</testCaseGuid>
+</TestCaseEntity>

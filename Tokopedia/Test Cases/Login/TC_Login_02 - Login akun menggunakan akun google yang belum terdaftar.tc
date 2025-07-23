@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_02 - Login akun menggunakan akun google yang belum terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e9f5c00-aa4f-45fb-993b-9d380426aaf1</testCaseGuid>
+</TestCaseEntity>

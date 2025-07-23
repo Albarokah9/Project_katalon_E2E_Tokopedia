@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Baterai  Charger Kamera</name>
+   <tag></tag>
+   <elementGuidId>bb224f4f-cbf9-4b61-94b9-4679b68cf72d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-79elbk.e13h6i9f3 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='A']/div[2]/div/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c80609b1-d87e-483e-af1b-5c64129b94bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>llbcBaterai&amp;ChargerKamera</value>
+      <webElementGuid>114088c1-2e7a-4b41-ac22-688cc71547cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/aksesoris-kamera/baterai-charger-kamera</value>
+      <webElementGuid>3210d98f-0fee-4606-85f8-ed2e6862f70a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Baterai &amp; Charger Kamera</value>
+      <webElementGuid>04f02831-1a80-44fc-a133-3cfe9ef1b031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;A&quot;)/div[@class=&quot;css-16mwuw1&quot;]/div[@class=&quot;getScrollPosition css-1vtduww&quot;]/div[@class=&quot;css-1y70rxa&quot;]/div[@class=&quot;css-cdv2tj e13h6i9f2&quot;]/div[@class=&quot;css-79elbk e13h6i9f3&quot;]/a[1]</value>
+      <webElementGuid>7da379d2-97b6-4b16-b25e-40272496e378</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='A']/div[2]/div/div[2]/div/div/a</value>
+      <webElementGuid>6c551e2f-ca1f-4342-a1fa-f0b7916b449c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Baterai &amp; Charger Kamera')]</value>
+      <webElementGuid>5ecbe4cb-5561-4177-a4a4-4445064d88ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aksesoris Kamera'])[1]/following::a[1]</value>
+      <webElementGuid>3a16cb83-09ce-460a-993b-edc56b2da68e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audio, Kamera &amp; Elektronik Lainnya'])[2]/following::a[2]</value>
+      <webElementGuid>f81dc0a7-0e4e-4761-92dc-a7ee7a3af525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Kamera'])[1]/preceding::a[1]</value>
+      <webElementGuid>ec168a5a-233a-4157-b9c0-6954137f7d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cleaning Tools Kamera'])[1]/preceding::a[2]</value>
+      <webElementGuid>26581087-2894-4124-8a47-76942f4de965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Baterai &amp; Charger Kamera']/parent::*</value>
+      <webElementGuid>9af9b9f9-5f1c-42fc-b7da-3f8e944a4bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/aksesoris-kamera/baterai-charger-kamera')]</value>
+      <webElementGuid>b1bf196a-947f-4f86-b4bf-c72264aee34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>41809982-2193-4fba-97b1-7606f907ea24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/aksesoris-kamera/baterai-charger-kamera' and (text() = 'Baterai &amp; Charger Kamera' or . = 'Baterai &amp; Charger Kamera')]</value>
+      <webElementGuid>0bd7bde7-9b95-4c1d-a651-4721da48bc79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

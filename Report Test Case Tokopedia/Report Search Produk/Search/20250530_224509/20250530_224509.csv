@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Search,Chrome 136.0.0.0,,,30-05-2025 22:45:24,30-05-2025 22:46:29,1m - 4.963s,PASSED
+,,,,,,,
+Test Cases/Search Produk/TC_SP_01 - Mencari produk menggunkan navigasi kategori,Chrome 136.0.0.0,,,30-05-2025 22:45:24,30-05-2025 22:46:00,35.751s,PASSED
+"openBrowser("""")",Chrome 136.0.0.0,,,30-05-2025 22:45:26,30-05-2025 22:45:31,5.700s,PASSED
+maximizeWindow(),Chrome 136.0.0.0,,,30-05-2025 22:45:31,30-05-2025 22:45:31,0.284s,PASSED
+"navigateToUrl(""https://www.tokopedia.com/"")",Chrome 136.0.0.0,,,30-05-2025 22:45:31,30-05-2025 22:45:37,5.517s,PASSED
+"click(findTestObject(""Register/WelcomePage/svg""))",Chrome 136.0.0.0,,,30-05-2025 22:45:37,30-05-2025 22:45:39,1.924s,PASSED
+"click(findTestObject(""Search/category/a_Kategori""))",Chrome 136.0.0.0,,,30-05-2025 22:45:39,30-05-2025 22:45:43,4.054s,PASSED
+"click(findTestObject(""Search/pageCategory/a_Baterai  Charger Kamera""))",Chrome 136.0.0.0,,,30-05-2025 22:45:43,30-05-2025 22:45:49,5.758s,PASSED
+"click(findTestObject(""Search/KameraDigital/img_Kamera Digital_css-1ckwll6""))",Chrome 136.0.0.0,,,30-05-2025 22:45:49,30-05-2025 22:45:50,1.451s,PASSED
+"click(findTestObject(""Search/actionCamera/span_Action Camera""))",Chrome 136.0.0.0,,,30-05-2025 22:45:50,30-05-2025 22:45:51,0.870s,PASSED
+"click(findTestObject(""Search/DJI Osmo Pocket 3/img_Tambah ke Wishlist_success fade""))",Chrome 136.0.0.0,,,30-05-2025 22:45:51,30-05-2025 22:45:54,3.395s,PASSED
+"verifyElementPresent(findTestObject(""Search/Assert_DJI Osmo Pocket 3 - Pocket Gimbal Camera - Pocket 3 Cicil 0 3x - Kab. Tangerang - DJI Official Store  Tokopedia/DJI Osmo Pocket 3 - Pocket Gimbal Camera - Pocket 3""), 0)",Chrome 136.0.0.0,,,30-05-2025 22:45:54,30-05-2025 22:45:59,4.631s,PASSED
+"verifyTextPresent(""DJI Osmo Pocket 3 - Pocket Gimbal Camera - Pocket 3"", false)",Chrome 136.0.0.0,,,30-05-2025 22:45:59,30-05-2025 22:46:00,0.990s,PASSED
+,,,,,,,
+Test Cases/Search Produk/TC_SP_02 - Mencari produk Tenda Glamping naturehike village 13 melalui search page,Chrome 136.0.0.0,,,30-05-2025 22:46:00,30-05-2025 22:46:29,28.447s,PASSED
+"openBrowser("""")",Chrome 136.0.0.0,,,30-05-2025 22:46:01,30-05-2025 22:46:03,2.815s,PASSED
+maximizeWindow(),Chrome 136.0.0.0,,,30-05-2025 22:46:03,30-05-2025 22:46:04,0.233s,PASSED
+"navigateToUrl(""https://www.tokopedia.com/"")",Chrome 136.0.0.0,,,30-05-2025 22:46:04,30-05-2025 22:46:11,7.158s,PASSED
+"click(findTestObject(""Register/WelcomePage/svg""))",Chrome 136.0.0.0,,,30-05-2025 22:46:11,30-05-2025 22:46:13,1.906s,PASSED
+"setText(findTestObject(""Search/searchPage/input_Kategori_css-6v0gm9 exxxdg63""), ""Tenda Glamping naturehike village 13"")",Chrome 136.0.0.0,,,30-05-2025 22:46:13,30-05-2025 22:46:15,1.883s,PASSED
+"delay(3, STOP_ON_FAILURE)",Chrome 136.0.0.0,,,30-05-2025 22:46:15,30-05-2025 22:46:18,3.111s,PASSED
+"sendKeys(findTestObject(""Search/searchPage/input_Kategori_css-6v0gm9 exxxdg63""), Keys.chord(ENTER))",Chrome 136.0.0.0,,,30-05-2025 22:46:18,30-05-2025 22:46:18,0.659s,PASSED
+"click(findTestObject(""Search/Tenda Glamping naturehike village 13/img_Urutkan_Q6EyY3lHkLBxLWawflt9Sg NWVIhquIvF0Jc0Qlizjluw""))",Chrome 136.0.0.0,,,30-05-2025 22:46:18,30-05-2025 22:46:24,5.469s,PASSED
+"verifyElementPresent(findTestObject(""Search/assertTenda/h1_TENDA VILLAGE 13  GLAMPING  TENDA OTOMATIS NATUREHIKE CNH22ZP004""), 3)",Chrome 136.0.0.0,,,30-05-2025 22:46:24,30-05-2025 22:46:27,3.268s,PASSED
+"verifyTextPresent(""TENDA VILLAGE 13 / GLAMPING / TENDA OTOMATIS NATUREHIKE CNH22ZP004"", false)",Chrome 136.0.0.0,,,30-05-2025 22:46:27,30-05-2025 22:46:29,1.449s,PASSED

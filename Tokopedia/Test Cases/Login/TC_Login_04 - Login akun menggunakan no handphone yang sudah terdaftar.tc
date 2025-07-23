@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_04 - Login akun menggunakan no handphone yang sudah terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f700cbea-b4d7-4f14-83b2-ac4310e762af</testCaseGuid>
+</TestCaseEntity>

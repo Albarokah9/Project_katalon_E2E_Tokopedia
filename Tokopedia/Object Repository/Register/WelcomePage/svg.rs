@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>11a7f7f0-6881-4fdd-a63e-4e341bf6d147</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[@class=&quot;css-1g5w2rw&quot;]/div[5]/div[@class=&quot;css-kl3gjj e1nc1fa20&quot;]/article[@class=&quot;css-12g0255-unf-modal e1nc1fa21&quot;]/div[@class=&quot;css-18qem4c e1nc1fa22&quot;]/div[@class=&quot;css-11hzwo5&quot;]/button[1]/svg[1][count(. | //svg[@width = '36' and @height = '36' and @viewBox = '0 0 36 36' and @fill = 'none' and @xmlns = 'http://www.w3.org/2000/svg']) = count(//svg[@width = '36' and @height = '36' and @viewBox = '0 0 36 36' and @fill = 'none' and @xmlns = 'http://www.w3.org/2000/svg'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-11hzwo5 > button[type=&quot;button&quot;] > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>5dc8f154-c437-453c-9726-6a16327a2bf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>36</value>
+      <webElementGuid>c5299f36-3a99-41db-82c0-f2a7b7e5941d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>36</value>
+      <webElementGuid>475e6198-0a3d-4fcb-b21b-858539c86257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 36 36</value>
+      <webElementGuid>5977fceb-101d-4b94-bcc6-fd3a17213ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>1fbec5de-9817-4139-b88d-b0b6eef2dcd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>96689e34-990f-466a-8a35-0ac6885f7348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;css-1g5w2rw&quot;]/div[5]/div[@class=&quot;css-kl3gjj e1nc1fa20&quot;]/article[@class=&quot;css-12g0255-unf-modal e1nc1fa21&quot;]/div[@class=&quot;css-18qem4c e1nc1fa22&quot;]/div[@class=&quot;css-11hzwo5&quot;]/button[1]/svg[1]</value>
+      <webElementGuid>b4ab9c8a-07de-4327-84dc-ac6c22211f40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>21411143-8bbb-417d-9b73-199388d65220</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
